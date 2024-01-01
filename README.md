@@ -1,1 +1,1 @@
-# Odin-recipes
+Using basic pure HTML to complete a very rudimentary recipes webpage as a part of The Odin Project.
